@@ -1,0 +1,10 @@
+{
+    "name": "Pokefolio.io",
+    "version": "1.0.0",
+    "description": "An application to track current inventory and prices on the market",
+    "keywords": [],
+    "author": "Mike Chan",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
